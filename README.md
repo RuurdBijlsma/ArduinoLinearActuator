@@ -1,0 +1,3 @@
+libraries used: 
+* EnableInterrupt
+* QuardatureEncoder
